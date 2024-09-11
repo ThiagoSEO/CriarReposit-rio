@@ -28,10 +28,6 @@ Estudos Dirigidos
 Diretórios e Subdiretórios: Verificar que os diretórios foram criados e estruturados conforme o esperado.
 Arquivo disciplinas_semestre: Confirmar a criação do arquivo e a precisão do conteúdo listado.
 
-📝 Observações
-Uso do touch: O comando touch foi utilizado para criar um arquivo inicial, embora não seja essencial para a atividade principal.
-Erros e Tratamento: O script inclui verificações para garantir que cada etapa seja executada corretamente e reportar falhas, se houver.
-
 🔗 Links Relevantes
 Documentação do Bash
 Referência de Comandos Unix
